@@ -21,9 +21,13 @@ The results of this temperature analysis were as follows:
 
 1. The average temperatures differ by roughly four degrees (**December**: 71, **June**: 75)
 2. December is generally colder than June - but not drastically, as many would consider typical 'winter' vs. 'summer' trends.
+
 ![](Resources/output.png)
+
 3. December features far more temperature outliers than June, making it a more volatile month in terms of temperature stability.
+
 ![](Resources/output2.png)
+
    1. However, considering the minimum of both datasets, they differ by only eight degrees (**December**: 56, **June**: 64).
    2. Maximum temperatures differ by only two degrees (**December**: 83, **June**: 85)
 
